@@ -120,6 +120,7 @@
 ---
 
 ## 14. 🧪 Testing & QA
+- [Agent QA](https://github.com/vostride/agent-qa) → Natural-language regression testing for web, Android & iOS
 - Testim → Automated testing  
 - Selenium AI → Test automation  
 - Playwright → End-to-end testing  
